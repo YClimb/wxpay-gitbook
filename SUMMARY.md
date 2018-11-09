@@ -4,7 +4,7 @@
 
 ## 前期准备
 
-* [微信支付方式简单介绍](base/https-yclimb.gitbook.io-wxpay-edit-drafts-lqrsg-l30fu3pch_dnv.md)
+* [微信支付方式简单介绍](base/jian-dan-jie-shao.md)
 * [开发前的准备](base/kai-fa-qian-de-zhun-bei.md)
 
 ## 支付&订单
