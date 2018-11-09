@@ -16,5 +16,5 @@
 
 ## 退款&对账单
 
-* [申请退款、退款回调接口、查询退款](tui-kuan-dui-zhang-dan/shen-qing-tui-kuan-tui-kuan-hui-tiao-jie-kou-cha-xun-tui-kuan.md)
+* [申请退款、退款回调接口、查询退款](refund/shen-qing-tui-kuan-tui-kuan-hui-tiao-jie-kou-cha-xun-tui-kuan.md)
 
