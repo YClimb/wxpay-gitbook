@@ -26,7 +26,19 @@ description: 本文是【浅析微信支付】系列文章的第四篇，主要�
 
 登录后可以进入测试号管理界面，如下：
 
-![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-1](https://img-blog.csdnimg.cn/20181105163410334.png) ![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-2](https://img-blog.csdnimg.cn/20181105163435639.png) ![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-3](https://img-blog.csdnimg.cn/20181105163448850.png) ![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-4](https://img-blog.csdnimg.cn/20181105163502163.png)
+ 
+
+![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-1](../.gitbook/assets/wei-xin-ce-shi-hao-1.png)
+
+![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-2](../.gitbook/assets/wei-xin-ce-shi-hao-2.png)
+
+ 
+
+![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-3](../.gitbook/assets/wei-xin-ce-shi-hao-3.png)
+
+ 
+
+![&#x5FAE;&#x4FE1;&#x6D4B;&#x8BD5;&#x53F7;-4](../.gitbook/assets/wei-xin-ce-shi-hao-4.png)
 
 按要求设置上方图片中的配置，即可减少80%的问题，如果调用时还有其他问题，请到文末添加作为微信，可进入讨论群和大家一起交流。
 
@@ -285,7 +297,7 @@ public AppMessage getXxxUser(@PathVariable String access_token, @PathVariable St
 
 
 
-![&#x5173;&#x6CE8;&#x6211;&#x7684;&#x516C;&#x4F17;&#x53F7;](https://img-blog.csdn.net/20180130111432962?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWUNsaW1i/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![&#x5173;&#x6CE8;&#x6211;&#x7684;&#x5FAE;&#x4FE1;&#x516C;&#x4F17;&#x53F7;](../.gitbook/assets/er-wei-ma.jpg)
 
 
 
