@@ -19,3 +19,7 @@
 * [申请退款、退款回调接口、查询退款](refund/shen-qing-tui-kuan-tui-kuan-hui-tiao-jie-kou-cha-xun-tui-kuan.md)
 * [下载对账单和资金账单](refund/xia-zai-dui-zhang-dan-he-zi-jin-zhang-dan.md)
 
+## 沙箱环境&验收用例
+
+* [如何使用沙箱环境测试](sandbox/ru-he-shi-yong-sha-xiang-huan-jing-ce-shi.md)
+
