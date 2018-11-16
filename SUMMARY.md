@@ -22,4 +22,9 @@
 ## 沙箱环境&验收用例
 
 * [如何使用沙箱环境测试](sandbox/ru-he-shi-yong-sha-xiang-huan-jing-ce-shi.md)
+* [支付验收示例和验收指引](sandbox/zhi-fu-yan-shou-shi-li-he-yan-shou-zhi-yin.md)
+
+## 企业付款到个人
+
+* [\(余额提现\)企业付款到微信用户零钱或银行卡账户](pay-to-people/yueti-xian-qi-ye-fu-kuan-dao-wei-xin-yong-hu-ling-qian-huo-yin-hang-ka-zhang-hu.md)
 
