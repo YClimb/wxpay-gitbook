@@ -27,4 +27,6 @@
 ## 企业付款到个人
 
 * [\(余额提现\)企业付款到微信用户零钱或银行卡账户](pay-to-people/yueti-xian-qi-ye-fu-kuan-dao-wei-xin-yong-hu-ling-qian-huo-yin-hang-ka-zhang-hu.md)
+* [商户平台开通现金红包、指定用户发放、红包记录查询](pay-to-people/hong-bao.md)
+* [商户平台代金券或立减优惠开通、指定用户代金券发放、查询等](pay-to-people/coupon.md)
 
