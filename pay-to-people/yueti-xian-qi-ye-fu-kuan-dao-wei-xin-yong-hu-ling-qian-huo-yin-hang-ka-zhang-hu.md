@@ -54,7 +54,7 @@ https://pay.weixin.qq.com/wiki/doc/api/tools/mch_pay.php?chapter=14_1
 
 以下为特别需要注意的地方，为大家标记出来，设计系统时一定要参考一下，以免入坑。
 
-![&#x4F01;&#x4E1A;&#x4ED8;&#x6B3E;&#x5230;&#x4F59;&#x989D;-1](https://img-blog.csdnimg.cn/20181115194658528.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+![&#x4F01;&#x4E1A;&#x4ED8;&#x6B3E;&#x5230;&#x4F59;&#x989D;-1](../.gitbook/assets/qi-ye-fu-kuan-dao-yue1.png)
 
 **接口链接**
 

@@ -144,7 +144,7 @@ PS：上面是官方介绍，不难理解，划重点！！！（注意3的含�
 
 消息触达规则参考官方文档：
 
-![&#x6D88;&#x606F;&#x89E6;&#x8FBE;&#x89C4;&#x5219;](https://img-blog.csdnimg.cn/20181116181518275.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+![&#x6D88;&#x606F;&#x89E6;&#x8FBE;&#x89C4;&#x5219;](../.gitbook/assets/xiao-xi-chu-da-gui-ze.png)
 
 下面开始来干货，贴出源码吧，应用代码：
 

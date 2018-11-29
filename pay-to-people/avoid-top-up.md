@@ -26,7 +26,7 @@ description: 本文是【浅析微信支付】系列文章的第十五篇，主�
 https://pay.weixin.qq.com/wiki/doc/api/jsapi_sl.php?chapter=23_15#
 ```
 
-![&#x514D;&#x5145;&#x503C;&#x4EA7;&#x54C1;&#x529F;&#x80FD;&#x4F7F;&#x7528;&#x6307;&#x5F15;](https://img-blog.csdnimg.cn/20181122181312729.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+![&#x514D;&#x5145;&#x503C;&#x4EA7;&#x54C1;&#x529F;&#x80FD;&#x4F7F;&#x7528;&#x6307;&#x5F15;](../.gitbook/assets/mian-chong-zhi-chan-pin-gong-neng-shi-yong-zhi-yin.png)
 
 上面为官方的开通步骤，注意，一定要按照步骤进行哟，否则可能会出现一些不可描述的问题！！！
 
@@ -42,9 +42,13 @@ Q1：为什么要进行接口升级？ A1：商户开通免充值类产品功能
 
 根据链接，我们可以下载微信官方给出的pdf文档，文档有这句话：开通免充值业务功能后，有 `6` 个支付业务接口部分参数将会按照以下表格变更，请确认是否优先进行内部系 统升级以适配新的接口参数（api 接口中，只有使用了免充值券才会返回新增参数）；
 
-说明，至少有六个接口是需要改变的，改变的是什么呢？说白了就是接口的参数新增了几个，具体的见如下图： ![&#x63A5;&#x53E3;&#x53D8;&#x66F4;&#x6982;&#x89C8;](https://img-blog.csdnimg.cn/20181122181330166.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+说明，至少有六个接口是需要改变的，改变的是什么呢？说白了就是接口的参数新增了几个，具体的见如下图：
 
-Q2：如何进行接口升级？ A2：商户的技术人员需要按照测试用例，逐个case进行测试。[下载测试用例](https://pay.weixin.qq.com/wiki/doc/api/download/mczyscsyl.pdf) 如果你在升级过程中遇到困难，请扫码加入微信群，会有微信支付技术人员答疑。 ![&#x5982;&#x4F55;&#x8FDB;&#x884C;&#x63A5;&#x53E3;&#x5347;&#x7EA7;-&#x5B98;&#x65B9;&#x89E3;&#x7B54;&#x7FA4;](https://img-blog.csdnimg.cn/20181122181344657.png)
+ 
+
+![&#x63A5;&#x53E3;&#x53D8;&#x66F4;&#x6982;&#x89C8;](../.gitbook/assets/jie-kou-bian-geng-gai-lan.png)
+
+Q2：如何进行接口升级？ A2：商户的技术人员需要按照测试用例，逐个case进行测试。[下载测试用例](https://pay.weixin.qq.com/wiki/doc/api/download/mczyscsyl.pdf) 如果你在升级过程中遇到困难，请扫码加入微信群，会有微信支付技术人员答疑。 ![&#x5982;&#x4F55;&#x8FDB;&#x884C;&#x63A5;&#x53E3;&#x5347;&#x7EA7;-&#x5B98;&#x65B9;&#x89E3;&#x7B54;&#x7FA4;](../.gitbook/assets/ru-he-jin-hang-jie-kou-sheng-ji-guan-fang-jie-da-qun.png)
 
 Q3：如何查询接口升级进度？ A3：请点击，[查询验收进度](https://pay.weixin.qq.com/wiki/doc/api/tools/sp_coupon.php?chapter=15_6&index=4)
 
@@ -66,7 +70,11 @@ Q7：使用免充值优惠，财务人员需要重点关注哪些变化？ A7：
 
 **查询验收进度**
 
-这里第一步下载测试用例就跳过不说了，直接查询验收进度，点击上面链接可以跳转到查询页面，如下图： ![&#x514D;&#x5145;&#x503C;&#x9A8C;&#x6536;&#x8FDB;&#x5EA6;&#x67E5;&#x8BE2;](https://img-blog.csdnimg.cn/20181122181421388.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+这里第一步下载测试用例就跳过不说了，直接查询验收进度，点击上面链接可以跳转到查询页面，如下图：
+
+ 
+
+![&#x514D;&#x5145;&#x503C;&#x9A8C;&#x6536;&#x8FDB;&#x5EA6;&#x67E5;&#x8BE2;](../.gitbook/assets/mian-chong-zhi-yan-shou-jin-du-cha-xun.png)
 
 这个验收进度是实时的，当我们根据用例调用不同的接口后，查询会显示不同的`完成状态`，帮助我们完成升级。
 
