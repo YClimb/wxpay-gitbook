@@ -32,11 +32,11 @@ https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=23_1
 
 **验收流程**
 
-![&#x56FE;2 &#x5546;&#x6237;&#x63A5;&#x5165;&#x9A8C;&#x6536;&#x6D41;&#x7A0B;](https://img-blog.csdnimg.cn/20181113200711866.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+![&#x56FE;2 &#x5546;&#x6237;&#x63A5;&#x5165;&#x9A8C;&#x6536;&#x6D41;&#x7A0B;](../.gitbook/assets/tu-2-shang-hu-jie-ru-yan-shou-liu-cheng.png)
 
 如图2，商户在收到微信支付审核通过的邮件后，即可用邮件中提供的开发者信息，启动测试验收工作。验收开始后，验收负责人可按照下表步骤操作：
 
-![&#x9A8C;&#x6536;&#x6B65;&#x9AA4;](https://img-blog.csdnimg.cn/20181113200728186.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1lDbGltYg==,size_16,color_FFFFFF,t_70)
+![&#x9A8C;&#x6536;&#x6B65;&#x9AA4;](../.gitbook/assets/yan-shou-bu-zhou.png)
 
 以上为验收的基本步骤，首先，我们需要接入 `沙箱环境`，不知道的小伙伴可以查看我的上一篇文章，有详细描述，这里就不细说了。
 
