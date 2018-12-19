@@ -24,11 +24,21 @@
 * [如何使用沙箱环境测试](sandbox/sandboxnew.md)
 * [支付验收示例和验收指引](sandbox/yanshou.md)
 
-## 企业付款&现金红包&代金券
+## 企业付款
 
 * [\(余额提现\)企业付款到微信用户零钱或银行卡账户](pay-to-people/transfers.md)
-* [商户平台开通现金红包、指定用户发放、红包记录查询](pay-to-people/hong-bao.md)
-* [商户平台代金券或立减优惠开通、指定用户代金券发放、查询等](pay-to-people/coupon.md)
-* [开通免充值产品功能及如何进行接口升级指引](pay-to-people/avoid-top-up.md)
-* [公众平台卡券功能开通、HTML5线上发券（JS-SDK接口）、查看卡券详情](pay-to-people/wx-card.md)
+
+## 现金红包
+
+* [商户平台开通现金红包、指定用户发放、红包记录查询](redpack/hong-bao.md)
+
+## 代金券
+
+* [商户平台代金券或立减优惠开通、指定用户代金券发放、查询等](coupon/coupon.md)
+* [开通免充值产品功能及如何进行接口升级指引](coupon/avoid-top-up.md)
+* [公众平台卡券功能开通、HTML5线上发券（JS-SDK接口）、查看卡券详情](coupon/wx-card.md)
+
+## 社交立减金
+
+* [开通社交立减金活动、创建立减金及领取使用的相关文档和源码](activity/createcardactivity.md)
 
